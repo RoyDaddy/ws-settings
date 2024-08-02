@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*posptn*,*crnr*" />
     <mask>*posbi*</mask>
     <mask>*crnr*</mask>
-    <mask>*posptn*,*crnr*</mask>
     <mask>*posptn*</mask>
+    <mask>*posptn*,*crnr*</mask>
   </component>
 </application>
