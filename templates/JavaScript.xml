@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="clo" value="console.log(`테스트: ${$obj$}`)" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="data" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
