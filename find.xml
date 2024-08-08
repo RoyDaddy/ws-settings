@@ -3,14 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*" />
     <mask>*posbi*</mask>
     <mask>*crnr*</mask>
     <mask>*posptn*</mask>
     <mask>*posptn*,*crnr*</mask>
     <mask>*table*</mask>
     <mask>*posptn*,*crnr*,*posanno*</mask>
-    <mask>*posptn*,*crnrmenu*,*posanno*</mask>
     <mask>*grid*</mask>
     <mask>*posanno*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*</mask>
   </component>
 </application>
