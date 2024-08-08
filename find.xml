@@ -8,9 +8,9 @@
     <mask>*posptn*</mask>
     <mask>*posptn*,*crnr*</mask>
     <mask>*table*</mask>
-    <mask>*posanno*</mask>
     <mask>*posptn*,*crnr*,*posanno*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*</mask>
     <mask>*grid*</mask>
+    <mask>*posanno*</mask>
   </component>
 </application>
