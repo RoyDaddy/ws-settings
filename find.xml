@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posannoatc*" />
+    <option name="FILE_MASK" value="*exrt*" />
     <mask>*posbi*</mask>
     <mask>*crnr*</mask>
     <mask>*posptn*</mask>
@@ -15,5 +15,6 @@
     <mask>*posptn*,*crnrmenu*,*posanno*</mask>
     <mask>*posptn*,*crnrmenu*,*posannomng*</mask>
     <mask>*posptn*,*crnrmenu*,*posannoatc*</mask>
+    <mask>*exrt*</mask>
   </component>
 </application>
