@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*salescncl*" />
+    <option name="FILE_MASK" value="*form*" />
     <mask>*posbi*</mask>
     <mask>*crnr*</mask>
     <mask>*posptn*</mask>
@@ -16,9 +16,9 @@
     <mask>*posptn*,*crnrmenu*,*posannomng*</mask>
     <mask>*posptn*,*crnrmenu*,*posannoatc*</mask>
     <mask>*anno*</mask>
-    <mask>*form*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*</mask>
     <mask>*exrt*</mask>
     <mask>*salescncl*</mask>
+    <mask>*form*</mask>
   </component>
 </application>
