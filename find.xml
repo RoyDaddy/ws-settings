@@ -21,5 +21,6 @@
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *sales*, *menugoods*</mask>
     <mask>*menugoods*</mask>
+    <mask>annoAtc*</mask>
   </component>
 </application>
