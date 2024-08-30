@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*" />
+    <option name="FILE_MASK" value="EqipStt*" />
     <mask>*posbi*</mask>
     <mask>*crnr*</mask>
     <mask>*posptn*</mask>
@@ -27,5 +29,6 @@
     <mask>salescncl*</mask>
     <mask>annoat*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*</mask>
+    <mask>EqipStt*</mask>
   </component>
 </application>
