@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*" />
+    <option name="FILE_MASK" value="annoat*" />
     <mask>*posbi*</mask>
     <mask>*crnr*</mask>
     <mask>*posptn*</mask>
@@ -25,8 +25,8 @@
     <mask>annoAtc*</mask>
     <mask>sales*</mask>
     <mask>salescncl*</mask>
-    <mask>annoat*</mask>
     <mask>EqipStt*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*</mask>
+    <mask>annoat*</mask>
   </component>
 </application>
