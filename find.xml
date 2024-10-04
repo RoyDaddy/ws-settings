@@ -29,5 +29,6 @@
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*</mask>
     <mask>*salesCal*</mask>
+    <mask>*eqipstt*</mask>
   </component>
 </application>
