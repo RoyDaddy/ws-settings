@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dailyClo*, *salesCal*" />
-    <mask>*posptn*</mask>
-    <mask>*posptn*,*crnr*</mask>
+    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*" />
     <mask>*table*</mask>
     <mask>*posptn*,*crnr*,*posanno*</mask>
     <mask>*grid*</mask>
@@ -34,5 +32,7 @@
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dayClo*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dailyClo*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dailyClo*, *salesCal*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*</mask>
+    <mask>*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*</mask>
   </component>
 </application>
