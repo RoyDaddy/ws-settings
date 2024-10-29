@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*" />
     <mask>*table*</mask>
     <mask>*posptn*,*crnr*,*posanno*</mask>
     <mask>*grid*</mask>
