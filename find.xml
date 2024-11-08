@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*search*" />
     <mask>*posanno*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*</mask>
     <mask>*posptn*,*crnrmenu*,*posannomng*</mask>
@@ -30,8 +31,8 @@
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dailyClo*, *salesCal*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*</mask>
     <mask>*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*</mask>
-    <mask>*search*</mask>
     <mask>*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*</mask>
+    <mask>*search*</mask>
   </component>
 </application>
