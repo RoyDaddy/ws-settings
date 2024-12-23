@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*" />
-    <mask>*posptn*,*crnrmenu*,*posannoatc*</mask>
+    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*" />
     <mask>*anno*</mask>
     <mask>*exrt*</mask>
     <mask>*salescncl*</mask>
@@ -34,5 +33,6 @@
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *ㅔㅐㄴㄴㅍㄱ*</mask>
     <mask>empInfoUpdt*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*</mask>
   </component>
 </application>
