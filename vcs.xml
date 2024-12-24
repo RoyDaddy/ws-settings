@@ -6,6 +6,10 @@
           <option name="url" value="http://git-codecommit.ap-northeast-2.amazonaws.com" />
           <option name="userName" value="tirran@cj.net-at-817556474266" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="RoyDaddy" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
