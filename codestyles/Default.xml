@@ -1,8 +1,5 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="500" />
-  <JSCodeStyleSettings version="0">
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
-  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
