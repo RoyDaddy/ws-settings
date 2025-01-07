@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*anno*</mask>
+    <option name="FILE_MASK" value="*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*, *salesemp*" />
     <mask>*exrt*</mask>
     <mask>*salescncl*</mask>
     <mask>*form*</mask>
@@ -33,5 +33,6 @@
     <mask>empInfoUpdt*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*, *salesemp*</mask>
   </component>
 </application>
