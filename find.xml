@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*anno*</mask>
     <mask>*exrt*</mask>
     <mask>*salescncl*</mask>
     <mask>*form*</mask>
@@ -33,5 +34,6 @@
     <mask>empInfoUpdt*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*, *salesemp*</mask>
   </component>
 </application>
