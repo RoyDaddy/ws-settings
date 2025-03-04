@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*exrt*</mask>
+    <mask>*salescncl*</mask>
+    <mask>*form*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*</mask>
+    <mask>*menugoods*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *sales*, *menugoods*</mask>
+    <mask>annoAtc*</mask>
+    <mask>sales*</mask>
+    <mask>salescncl*</mask>
+    <mask>EqipStt*</mask>
+    <mask>annoat*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*</mask>
+    <mask>*salesCal*</mask>
+    <mask>*eqipstt*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqip*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dayClo*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dailyClo*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dailyClo*, *salesCal*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*</mask>
+    <mask>*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*</mask>
+    <mask>*posptn*,*crnrmenu*,crnrmng*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*</mask>
+    <mask>*search*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *ㅔㅐㄴㄴㅍㄱ*</mask>
+    <mask>empInfoUpdt*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*</mask>
+    <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipstt*, *dailyClo*, *salesCal*, *salesLed*, *salesMenuCls*, *possvr*, *empinfo*, *salesemp*</mask>
+  </component>
+</application>
