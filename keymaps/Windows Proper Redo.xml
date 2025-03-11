@@ -9,7 +9,7 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl f4" second-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorAddOrRemoveCaret">
@@ -22,8 +22,10 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
+  <action id="SmartUnSelect" />
   <action id="Uml.ShowDiff" />
 </keymap>
