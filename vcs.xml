@@ -10,6 +10,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="RoyDaddy" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.cj.net" />
+          <option name="userName" value="tirran12" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
