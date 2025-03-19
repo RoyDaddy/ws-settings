@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*index.tsx, *vision.tsx, *sample.tsx" />
-    <mask>*menugoods*</mask>
+    <option name="FILE_MASK" value="*index.tsx, *vision.tsx, *sample.tsx, *.json" />
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *sales*, *menugoods*</mask>
     <mask>annoAtc*</mask>
     <mask>sales*</mask>
@@ -34,5 +33,6 @@
     <mask>*.tsx</mask>
     <mask>*index.tsx, *vision.tsx</mask>
     <mask>*index.tsx, *vision.tsx, *sample.tsx</mask>
+    <mask>*index.tsx, *vision.tsx, *sample.tsx, *.json</mask>
   </component>
 </application>
