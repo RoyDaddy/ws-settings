@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*index.tsx, *vision.tsx, *sample.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx" />
     <mask>salescncl*</mask>
     <mask>EqipStt*</mask>
     <mask>annoat*</mask>
