@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*index.tsx, *vision.tsx, *sample.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx" />
     <mask>EqipStt*</mask>
     <mask>annoat*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, *annoatc*</mask>
@@ -31,7 +32,7 @@
     <mask>*index.tsx, *vision.tsx, *sample.tsx, *.json</mask>
     <mask>*index.tsx, *vision.tsx, *sample.tsx, *.json, Home.tsx, Personal.tsx</mask>
     <mask>*index.tsx, *vision.tsx, *sample.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx</mask>
-    <mask>*index.tsx, *vision.tsx, *sample.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx</mask>
     <mask>Popup*.tsx</mask>
+    <mask>*index.tsx, *vision.tsx, *sample.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx</mask>
   </component>
 </application>
