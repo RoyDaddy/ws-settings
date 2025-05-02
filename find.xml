@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*index.tsx, *vision.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx, Tab*.tsx, Account*.tsx" />
-    <mask>*eqipstt*</mask>
+    <option name="FILE_MASK" value="*index.tsx, *vision.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx, Tab*.tsx, Account*.tsx, Anno*" />
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqip*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*</mask>
@@ -34,5 +33,6 @@
     <mask>*index.tsx, *vision.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx, Tab*.tsx</mask>
     <mask>POP*</mask>
     <mask>*index.tsx, *vision.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx, Tab*.tsx, Account*.tsx</mask>
+    <mask>*index.tsx, *vision.tsx, *.json, Home.tsx, Personal.tsx, Popup*.tsx, Create*.tsx, Tab*.tsx, Account*.tsx, Anno*</mask>
   </component>
 </application>
