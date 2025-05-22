@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="wf" value="window.form = form;" description="windowform" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
