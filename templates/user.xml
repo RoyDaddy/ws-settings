@@ -4,7 +4,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="wg" value="window.gridRef = gridRef;" description="window gridref" toReformat="false" toShortenFQNames="true">
+  <template name="wg" value="window.gridRef = gridRef.current;" description="window gridref" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
