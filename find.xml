@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pop*.tsx" />
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqip*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*</mask>
     <mask>*posptn*,*crnrmenu*,*posanno*,*exrt*, *salescn*, *menugoods*, annoatc*, *eqipsttt*, *dayClo*</mask>
